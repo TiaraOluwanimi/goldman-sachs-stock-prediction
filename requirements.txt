@@ -5,6 +5,6 @@ xgboost
 matplotlib
 seaborn
 plotly
-streamlit
+streamlit>=1.30.0
 joblib
 altair<5
